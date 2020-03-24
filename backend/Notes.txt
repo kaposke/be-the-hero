@@ -1,0 +1,20 @@
+#Tipos de parametros de uma request:
+
+Query Params: Parâmetros nomeados enviados na rota após '?' (Filtros, Paginação)
+Route Params: Parâmetros utilizados para identificar recursos (Ex: /users/1 <-)
+Request Body: Corpo da requisição, utilizado para criar ou modificar recursos
+
+
+#Entidades
+- ONG
+- Caso (Incident)
+
+#Funcionalidades
+- Login de ONG
+- Logout de ONG
+- Cadastro de ONG
+- Cadastrar novos casos
+- Deletar casos
+- Listar casos especificos de uma ONG
+- Listar todos os casos
+- Entrar em contato com a ONG
